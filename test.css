@@ -1,0 +1,30 @@
+#anojs-circular-motion {
+	margin-left: 40%;
+	height: 100%;
+	width: 59%;
+}
+
+#container {
+	height: 100vh;
+	width: 100vw;
+}
+
+#myname {
+	width: 35%;
+	float: left;
+	z-index: 2;
+	margin: 30vh 0em 10em 5em;
+}
+
+h1, h2 {
+	font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+a:visited{
+	text-decoration: none;
+	color: black;
+}
