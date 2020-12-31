@@ -24,6 +24,9 @@ h1 {
 	font-size: 40px;
 }
 
+a {
+	color: black;
+}
 a:visited{
 	text-decoration: none;
 	color: black;
